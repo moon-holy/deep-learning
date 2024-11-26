@@ -1,0 +1,11 @@
+# .gitignore
+.ipynb_checkpoints/
+__MACOSX/
+data/
+data_rnn/
+data1/
+data2/
+datas/
+dcgan/
+image/
+output_data/
